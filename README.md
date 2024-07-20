@@ -1,6 +1,6 @@
 # Google Python Course Assignments
 
-This repository contains the solutions to the assignments from the Google Python Course. These assignments are part of an exercise for the Advanced Programming module in the Master of Engineering (ME) program in AI for Smart Sensors and Actuators. The codes were started to be written from 9 June, 2024.
+This repository contains the solutions to the assignments from the Google Python Course. These assignments are part of an exercise for the Advanced Programming module in the Master of Engineering (ME) program in AI for Smart Sensors and Actuators. The codes were started to be written from 9 June, 2024, and were edited in Jupyter Notebook.
 
 ## Overview
 
